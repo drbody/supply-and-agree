@@ -1,0 +1,15 @@
+﻿This program shows who has the right to receive ration or pension?
+- If this person is a man...and his name is Atris, Ahmed, or Muhammad, and a man, and his age is greater than or equal to 30 years. And his marital status is married. He obtains the pension by typing the sentence Go and get the pension.
+
+- And if a girl named Atrisa, Hind, Sarah, or Laila, who is a woman and is over 25 years old and not married, gets the pension.
+
+- And if she has one of the four names shown above. She is over 30 and married and receives a pension.
+
+
+------------------
+هذا البرنامج يبين من له الحق في الحصول على التموين أو المعاش ؟
+- إذا كان هذا الشخص رجلاً .. واسمه عتريس أو أحمد أو محمد ورجلاً وعمره أكبر من أو يساوي ٣٠ سنة. وحالته الاجتماعية متزوج. يحصل على المعاش من خلال طباعة جملة اذهب واحصل على المعاش.
+
+- وإذا كانت فتاة اسمها عتريسه أو هند أو ساره أو ليلى وهي امرأة وعمرها أكبر من ٢٥ سنة وليست متزوجة تحصل على المعاش.
+
+- وإذا كانت لديها اسم من الاسماء الأربعة الموضحة أعلاه. وسنها أكبر من الثلاثين ومتزوجة تحصل على المعاش.
